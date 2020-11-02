@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  }
+  .up {
+    background-color: black;
+    width: 100%;
+    height: 100px;
+  }
+  h2 {
+      color: white;
+  }
+  .content {
+    float: right;
+  }
+  a {
+    float: right;
+    color: blue;
+    margin: 12px;
+  }
+   img {
+    height: 100px;
+    float: left;
+  }
+#art {
+      width: 100%;
+      height: 80vh;
+  }
+  a:hover{
+      color: blue;
+      cursor: pointer;
+  }
+  a:active{
+      color: chocolate;
+  }
